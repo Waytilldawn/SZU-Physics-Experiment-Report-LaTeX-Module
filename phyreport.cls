@@ -60,9 +60,9 @@
   \begin{tikzpicture}[remember picture, overlay, inner sep=0pt,every node/.style={font=\fontsize{14}{14}\selectfont\bfseries}]
     \node[above] at (8.5,-7.9){\phyExpName};
     \node[above] at (8.5,-10.0)
-      {高等研究院};
+      {大数据系统计算技术国家工程实验室};
     \node[above] at (11,-12.1)
-      {}; % 指导教师
+      {方浚}; % 指导教师
     \node[above] at (5.75,-14.2)
       {}; % 姓名
     \node[above] at (11,-14.2)
